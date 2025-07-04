@@ -31,7 +31,7 @@
   <!-- Tarjeta 3 -->
   <div style="width: 280px; text-align: center; margin-bottom: 40px;">
     <img 
-      ssrc="/Pantallas/captura3.png" 
+      src="/Pantallas/captura3.png" 
       alt="SAC: Interfaz Demostrador Tecnológico"
       style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 2px solid #eaeaea;"
     >
@@ -44,7 +44,7 @@
   <!-- Tarjeta 4 -->
   <div style="width: 280px; text-align: center; margin-bottom: 40px;">
     <img 
-      ssrc="/Pantallas/captura4.png" 
+      src="/Pantallas/captura4.png" 
       alt="ENIGH: Interfaz Demostrador tecnológico "
       style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); border: 2px solid #eaeaea;"
     >
