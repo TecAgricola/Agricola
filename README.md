@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1013834033.svg)](https://doi.org/10.5281/zenodo.15808356)
 # 🚜 Automatización de la preparación de datos agrícolas estadísticos
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 35px; margin: 40px 0;">
