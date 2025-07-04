@@ -59,23 +59,5 @@
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 18px;">
         Leyenda
       </p>
-      
-      <!-- Botón de descarga mejorado -->
-      <a href="/Documento/SQL.docx" download style="text-decoration: none; display: inline-block; width: 100%;">
-        <div style="background: linear-gradient(to right, #8b5cf6, #7c3aed); color: white; border: none; padding: 10px 0; border-radius: 12px; font-size: 14px; font-weight: 500; cursor: pointer; transition: all 0.3s ease; margin: 0 auto; width: 90%; display: flex; align-items: center; justify-content: center; gap: 8px;">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M12 16L7 11L8.41 9.59L12 13.17L15.59 9.59L17 11L12 16Z" fill="white"/>
-            <path d="M12 3C12.5523 3 13 3.44772 13 4V15C13 15.5523 12.5523 16 12 16C11.4477 16 11 15.5523 11 15V4C11 3.44772 11.4477 3 12 3Z" fill="white"/>
-            <path d="M19 20H5C4.44772 20 4 20.4477 4 21C4 21.5523 4.44772 22 5 22H19C19.5523 22 20 21.5523 20 21C20 20.4477 19.5523 20 19 20Z" fill="white"/>
-          </svg>
-          Descargar Manual SQL
-        </div>
-      </a>
-      <p style="color: #8b5cf6; font-size: 0.8em; margin-top: 12px; font-weight: 500;">
-        <a href="mailto:contacto@agricultura.digital" style="color: inherit; text-decoration: none;">
-          ✉️ ¿Interesado? Contactar al equipo
-        </a>
-      </p>
-    </div>
   </div>
 </div>
