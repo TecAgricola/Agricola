@@ -14,13 +14,11 @@
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #3b82f6; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">✨ SIACON: Interfaz Demostrador Tecnológico</h3>
       <ul style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 20px; padding-left: 20px; text-align: left;">
-  <li>Disponibilidad de uso: el demostrador debe ser solicitado al autor.</li>
-  <li>Correo electrónico: vcesar@colpos.mx</li>
-</ul>
-
+        <li>Disponibilidad de uso: el demostrador debe ser solicitado al autor.</li>
+        <li>Correo electrónico: vcesar@colpos.mx</li>
+      </ul>
       <br>
-      <br>
-    </div>
+      <br>>
   </div>
 
   <!-- Tarjeta 2 - Verde -->
