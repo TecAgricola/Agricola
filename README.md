@@ -15,7 +15,7 @@
         Disponibilidad de uso: el demostrador debe ser solicitados al autor.<br>
         Correo electrónico: vcesar@colpos.mx
       </p>
-      <p></p>
+      <br>
     </div>
   </div>
 
@@ -29,10 +29,10 @@
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #22c55e; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">📊 BCMM: Interfaz Demostrador Tecnológico</h3>
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
-        Disponibilidad de uso: el demostrador debe ser solicitados al autor.
+        Disponibilidad de uso: el demostrador debe ser solicitados al autor.<br>
         Correo electrónico: vcesar@colpos.mx
       </p>
-      <p></p>
+      <br>
     </div>
   </div>
 
@@ -46,10 +46,10 @@
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #f59e0b; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">🌱 SAC: Interfaz Demostrador Tecnológico</h3>
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
-        Disponibilidad de uso: el demostrador debe ser solicitados al autor.
+        Disponibilidad de uso: el demostrador debe ser solicitados al autor.<br>
         Correo electrónico: vcesar@colpos.mx
       </p>
-      <p></p>
+      <br>
     </div>
   </div>
 
@@ -67,10 +67,10 @@
         Correo electrónico: vcesar@colpos.mx
       </p>
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
-        Disponibilidad de uso: Descarga el Demostrador Tecnológico de Función Consultas SQL
+        Disponibilidad de uso: Descarga el Demostrador Tecnológico de Función Consultas SQL<br>
         Correo electrónico: vcesar@colpos.mx
       </p>
-      <p></p>
+      <br>
     </div>
   </div>
 
