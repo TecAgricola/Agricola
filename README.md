@@ -73,7 +73,7 @@
     <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 20px;">
       También puedes descargar el documento de consultas SQL directamente:
     </p>
-    <a href="/Documento/SQL.docx" download style="display: inline-block; padding: 10px 16px; background-color: #8b5cf6; color: white; border-radius: 8px; text-decoration: none; font-size: 0.9em; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); transition: background-color 0.3s ease;">
+    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTecAgricola%2FAgricola%2Frefs%2Fheads%2Fmain%2FDocumento%2FSQL.docx&wdOrigin=BROWSELINK" download style="display: inline-block; padding: 10px 16px; background-color: #8b5cf6; color: white; border-radius: 8px; text-decoration: none; font-size: 0.9em; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); transition: background-color 0.3s ease;">
       📥 Descargar documento
     </a>
   </div>
