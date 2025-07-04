@@ -7,7 +7,7 @@
     <img 
       src="/Pantallas/captura1.png" 
       alt="SIACON"
-      style="border-radius: 14px 14px 0 0; width: 100%; height: 50%; object-fit: cover; border-bottom: 2px solid #e0e7ff;"
+      style="border-radius: 14px 14px 0 0; width: 50%; height: 50%; object-fit: cover; border-bottom: 2px solid #e0e7ff;"
     >
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #3b82f6; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">✨ SIACON: Interfaz Demostrador Tecnológico</h3>
@@ -22,7 +22,7 @@
     <img 
       src="/Pantallas/captura2.png" 
       alt="BCMM"
-      style="border-radius: 14px 14px 0 0; width: 100%; height: 50%; object-fit: cover; border-bottom: 2px solid #dcfce7;"
+      style="border-radius: 14px 14px 0 0; width: 50%; height: 50%; object-fit: cover; border-bottom: 2px solid #dcfce7;"
     >
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #22c55e; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">📊 BCMM: Interfaz Demostrador Tecnológico</h3>
@@ -37,7 +37,7 @@
     <img 
       src="/Pantallas/captura3.png" 
       alt="SAC"
-      style="border-radius: 14px 14px 0 0; width: 100%; height: 50%; object-fit: cover; border-bottom: 2px solid #fed7aa;"
+      style="border-radius: 14px 14px 0 0; width: 50%; height: 50%; object-fit: cover; border-bottom: 2px solid #fed7aa;"
     >
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #f59e0b; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">🌱 SAC: Interfaz Demostrador Tecnológico</h3>
@@ -52,7 +52,7 @@
     <img 
       src="/Pantallas/captura4.png" 
       alt="ENIGH"
-      style="border-radius: 14px 14px 0 0; width: 100%; height: 50%; object-fit: cover; border-bottom: 2px solid #ddd6fe;"
+      style="border-radius: 14px 14px 0 0; width: 50%; height: 50%; object-fit: cover; border-bottom: 2px solid #ddd6fe;"
     >
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #8b5cf6; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">📈 ENIGH: Interfaz Demostrador Tecnológico</h3>
