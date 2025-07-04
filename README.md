@@ -14,6 +14,7 @@
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
         Si te interesa obtener más información o tienes alguna pregunta sobre nuestro software, no dudes en contactarnos por correo electrónico a correo@ejemplo.com. Estaremos encantados de atender tus consultas y proporcionarte toda la información que necesites.
       </p>
+      <p></p>
     </div>
   </div>
 
@@ -29,6 +30,7 @@
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
         Si te interesa obtener más información o tienes alguna pregunta sobre nuestro software, no dudes en contactarnos por correo electrónico a correo@ejemplo.com. Estaremos encantados de atender tus consultas y proporcionarte toda la información que necesites.
       </p>
+      <p></p>
     </div>
   </div>
 
@@ -44,6 +46,7 @@
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
         Si te interesa obtener más información o tienes alguna pregunta sobre nuestro software, no dudes en contactarnos por correo electrónico a correo@ejemplo.com. Estaremos encantados de atender tus consultas y proporcionarte toda la información que necesites.
       </p>
+      <p></p>
     </div>
   </div>
 
@@ -59,6 +62,7 @@
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
         Si te interesa obtener más información o tienes alguna pregunta sobre nuestro software, no dudes en contactarnos por correo electrónico a correo@ejemplo.com. Estaremos encantados de atender tus consultas y proporcionarte toda la información que necesites.
       </p>
+      <p></p>
     </div>
   </div>
 
