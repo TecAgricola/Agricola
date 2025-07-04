@@ -7,7 +7,7 @@
     <img 
       src="/Pantallas/captura1.png" 
       alt="SIACON"
-      style="border-radius: 14px 14px 0 14px; width: 70%; height: 50%; object-fit: cover; border-bottom: 2px solid #e0e7ff;"
+      style="border-radius: 14px 14px 0 0px; width: 70%; height: 50%; object-fit: cover; border-bottom: 2px solid #e0e7ff;"
     >
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #3b82f6; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">✨ SIACON: Interfaz Demostrador Tecnológico</h3>
