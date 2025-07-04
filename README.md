@@ -3,6 +3,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 35px; margin: 40px 0;">
 
   <!-- Tarjeta 1 - Azul -->
+  <br>
   <div style="width: 280px; background: linear-gradient(to bottom, #f8fafc, #ffffff); text-align: center; margin-bottom: 30px; border-radius: 14px; box-shadow: 0 8px 16px rgba(74, 111, 165, 0.1); border: 1px solid #e0e7ff; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
     <img 
       src="/Pantallas/captura1.png" 
@@ -15,6 +16,7 @@
         Disponibilidad de uso: el demostrador debe ser solicitados al autor.<br>
         Correo electrónico: vcesar@colpos.mx
       </p>
+      <br>
       <br>
     </div>
   </div>
@@ -33,6 +35,7 @@
         Correo electrónico: vcesar@colpos.mx
       </p>
       <br>
+      <br>
     </div>
   </div>
 
@@ -49,6 +52,7 @@
         Disponibilidad de uso: el demostrador debe ser solicitados al autor.<br>
         Correo electrónico: vcesar@colpos.mx
       </p>
+      <br>
       <br>
     </div>
   </div>
@@ -70,6 +74,7 @@
         Disponibilidad de uso: Descarga el Demostrador Tecnológico de Función Consultas SQL<br>
         Correo electrónico: vcesar@colpos.mx
       </p>
+      <br>
       <br>
     </div>
   </div>
