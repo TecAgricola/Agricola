@@ -12,7 +12,8 @@
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #3b82f6; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">✨ SIACON: Interfaz Demostrador Tecnológico</h3>
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
-        Si te interesa obtener más información o tienes alguna pregunta sobre nuestro software, no dudes en contactarnos por correo electrónico a correo@ejemplo.com. Estaremos encantados de atender tus consultas y proporcionarte toda la información que necesites.
+        Disponibilidad de uso: el demostrador debe ser solicitados al autor.
+        Correo electrónico: vcesar@colpos.mx
       </p>
       <p></p>
     </div>
@@ -28,7 +29,8 @@
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #22c55e; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">📊 BCMM: Interfaz Demostrador Tecnológico</h3>
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
-        Si te interesa obtener más información o tienes alguna pregunta sobre nuestro software, no dudes en contactarnos por correo electrónico a correo@ejemplo.com. Estaremos encantados de atender tus consultas y proporcionarte toda la información que necesites.
+        Disponibilidad de uso: el demostrador debe ser solicitados al autor.
+        Correo electrónico: vcesar@colpos.mx
       </p>
       <p></p>
     </div>
@@ -44,7 +46,8 @@
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #f59e0b; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">🌱 SAC: Interfaz Demostrador Tecnológico</h3>
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
-        Si te interesa obtener más información o tienes alguna pregunta sobre nuestro software, no dudes en contactarnos por correo electrónico a correo@ejemplo.com. Estaremos encantados de atender tus consultas y proporcionarte toda la información que necesites.
+        Disponibilidad de uso: el demostrador debe ser solicitados al autor.
+        Correo electrónico: vcesar@colpos.mx
       </p>
       <p></p>
     </div>
@@ -60,7 +63,12 @@
     <div style="padding: 0 20px 20px;">
       <h3 style="margin: 18px 0 10px 0; color: #8b5cf6; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">📈 ENIGH: Interfaz Demostrador Tecnológico</h3>
       <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
-        Si te interesa obtener más información o tienes alguna pregunta sobre nuestro software, no dudes en contactarnos por correo electrónico a correo@ejemplo.com. Estaremos encantados de atender tus consultas y proporcionarte toda la información que necesites.
+        Disponibilidad de uso: el demostrador debe ser solicitados al autor.
+        Correo electrónico: vcesar@colpos.mx
+      </p>
+      <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
+        Disponibilidad de uso: Descarga el Demostrador Tecnológico de Función Consultas SQL
+        Correo electrónico: vcesar@colpos.mx
       </p>
       <p></p>
     </div>
