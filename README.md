@@ -54,12 +54,11 @@
   </p>
   
   <!-- Botón de descarga con estilo morado coordinado -->
-  <a href="/Documentos/ENIGH_Demo.pdf" download style="text-decoration: none;">
+  <a href="/Documento/SQL.docx" download style="text-decoration: none;">
     <div style="background-color: #8e44ad; color: white; border: none; padding: 8px 16px; border-radius: 20px; font-size: 14px; cursor: pointer; display: inline-block; transition: all 0.3s ease; margin: 0 auto;">
-      ⬇️ Descargar Documentación
+      ⬇️ Descargar manual
     </div>
   </a>
-  <p style="color: #888; font-size: 0.8em; margin-top: 8px;">(PDF - 2.3 MB)</p>
 </div>
 
 </div>
