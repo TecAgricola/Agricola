@@ -1,5 +1,9 @@
 # Tecnología Agrícola
 
+<div align="center">
+  <img src="tu-foto.jpg" width="200" style="border-radius: 50%;">
+</div>
+
 # 👋 Hola, soy [Tu Nombre]
 
 ## 🚀 Sobre mí
