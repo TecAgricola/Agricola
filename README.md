@@ -57,26 +57,28 @@
     </div>
   </div>
 
-  <!-- Tarjeta 4 - Morado (con descarga) -->
-  <div style="width: 280px; background: linear-gradient(to bottom, #f5f3ff, #ffffff); text-align: center; margin-bottom: 30px; border-radius: 14px; box-shadow: 0 8px 16px rgba(139, 92, 246, 0.1); border: 1px solid #ddd6fe; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
-    <img 
-      src="/Pantallas/captura4.png" 
-      alt="ENIGH"
-      style="border-radius: 14px 14px 0 0; width: 70%; height: 50%; object-fit: cover; border-bottom: 2px solid #ddd6fe;"
-    >
-    <div style="padding: 0 20px 20px;">
-      <h3 style="margin: 18px 0 10px 0; color: #8b5cf6; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">📈 ENIGH: Interfaz Demostrador Tecnológico</h3>
-      <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
-        Disponibilidad de uso: el demostrador debe ser solicitados al autor.
-        Correo electrónico: vcesar@colpos.mx
-      </p>
-      <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 40px;">
-        Disponibilidad de uso: Descarga el Demostrador Tecnológico de Función Consultas SQL<br>
-        Correo electrónico: vcesar@colpos.mx
-      </p>
-      <br>
-      <br>
-    </div>
+<!-- Tarjeta 4 - Morado (con descarga) -->
+<div style="width: 280px; background: linear-gradient(to bottom, #f5f3ff, #ffffff); text-align: center; margin-bottom: 30px; border-radius: 14px; box-shadow: 0 8px 16px rgba(139, 92, 246, 0.1); border: 1px solid #ddd6fe; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='none'">
+  <img 
+    src="/Pantallas/captura4.png" 
+    alt="ENIGH"
+    style="border-radius: 14px 14px 0 0; width: 70%; height: 50%; object-fit: cover; border-bottom: 2px solid #ddd6fe;"
+  >
+  <div style="padding: 0 20px 20px;">
+    <h3 style="margin: 18px 0 10px 0; color: #8b5cf6; font-family: 'Segoe UI', sans-serif; font-size: 1.1em;">📈 ENIGH: Interfaz Demostrador Tecnológico</h3>
+    <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 20px;">
+      Disponibilidad de uso: el demostrador debe ser solicitado al autor.<br>
+      Correo electrónico: vcesar@colpos.mx
+    </p>
+    <p style="color: #64748b; font-size: 0.92em; line-height: 1.5; margin-bottom: 20px;">
+      También puedes descargar el documento de consultas SQL directamente:
+    </p>
+    <a href="/Documento/SQL.docx" download style="display: inline-block; padding: 10px 16px; background-color: #8b5cf6; color: white; border-radius: 8px; text-decoration: none; font-size: 0.9em; box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15); transition: background-color 0.3s ease;">
+      📥 Descargar documento
+    </a>
+  </div>
+</div>
+
   </div>
 
 </div>
